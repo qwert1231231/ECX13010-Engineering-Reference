@@ -24,6 +24,6 @@ The connector labels documented in this repository are observations and engineer
 
 ## Reference
 
-See `ECX13010_Reference.md` for the engineering reference text.
+See `ECX13010_Engineering_Reference.pdf` for the engineering reference text and more information.
 
 The original PDF is kept as the source document; GitHub's available text-file interface cannot upload the binary PDF directly.
